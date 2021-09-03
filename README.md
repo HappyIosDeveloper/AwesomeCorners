@@ -10,7 +10,7 @@
 - The corner radius is like the iOS7+ apple icon curve which is way cooler than the regular corner radius.
 
 ![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/difference1.png)
-![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/difference2.png)
+![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/%20difference2.webp)
 
 
 ### Easey to use:
