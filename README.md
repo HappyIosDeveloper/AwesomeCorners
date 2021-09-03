@@ -1,10 +1,10 @@
 # Aweseom Corners
-## Awesome &amp; modern corners &amp; cool looking shadow for all the views.
+### Awesome &amp; modern corners &amp; cool looking shadow for all the views.
 
 ![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/screenshot.jpg)
 
 
-What is between this extension & regular shadows & corners?
+### What is between this extension & regular shadows & corners?
 
 - The shadows are much softer & modern than the regular shadows & more like Neumorphic style.
 - The corner radius is like the iOS7+ apple icon curve which is way cooler than the regular corner radius.
@@ -13,7 +13,7 @@ What is between this extension & regular shadows & corners?
 ![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/difference2.png)
 
 
-Easey to use:
+### Easey to use:
        whiteCellWithSoftShowView.dropShadowAndCornerRadious(.large)
         roundButton.roundUp(.large)
         circleButton.roundUp(.round)
