@@ -1,5 +1,5 @@
 # Aweseom Corners
-### Awesome &amp; modern corners &amp; cool looking shadow for all the views.
+### Awesome &amp; modern corners &amp; cool looking shadows for all views.
 
 ![Alt Text](https://github.com/HappyIosDeveloper/AwesomeCornetrs/blob/main/screenshot.jpg)
 
