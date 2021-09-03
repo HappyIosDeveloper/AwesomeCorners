@@ -16,7 +16,7 @@
 ### Easey to use:
 Just copy the extension swift file in to your project then use it like so:
 
-       whiteCellWithSoftShowView.dropShadowAndCornerRadious(.large)
+        whiteCellWithSoftShowView.dropShadowAndCornerRadious(.large)
         roundButton.roundUp(.large)
         circleButton.roundUp(.round)
         circleView.dropShadowAndCornerRadious(.round)
